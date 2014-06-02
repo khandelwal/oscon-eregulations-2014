@@ -21,6 +21,8 @@ some things I'd like input on:
 * What should I talk about?
 * What aspects of eRegulations interest you the most? 
 * What would be of interest to OSCON and the public at large?
+* Since this is an Open Source conference, what open source things should I
+  talk about?
 
 Basically, I'm asking for your help in crafting this into a talk that's worth
 attending!
