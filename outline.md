@@ -1,5 +1,7 @@
 Here is an outline based on the abstract, and @ascott1's comments:
 
+#### Beginning matter
+
 * Introduction
 
 #### Domain: An introduction to regulations
@@ -34,5 +36,7 @@ parts for diff view. Also, set up for compiling regulations
 
 * Compiling versions of regulations from descriptions of changes (FR notices):
   how we turn lawyer written statements about changes in regulations into actual actions  (add, delete, move). 
+
+#### Ending  matter
 
 * Tie everything together, and end somehow. 
