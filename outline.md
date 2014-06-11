@@ -2,7 +2,7 @@ Here is an outline based on the abstract, and @ascott1's comments:
 
 * Introduction
 
-#### Domain/Subject Matter: An introduction to regulations
+#### Domain: An introduction to regulations
 
 * A very broad and high level view of the problem we tried to solve.
 
