@@ -1,6 +1,8 @@
 Here is an outline based on the abstract, and @ascott1's comments:
 
-* Brief introduction to talk, and who I am. 
+* Brief introduction to talk, and who I am.
+
+# Domain/Subject Matter: An introduction to regulations
 
 * A very broad and high level view of the problem we tried to solve.
 
@@ -9,9 +11,9 @@ Here is an outline based on the abstract, and @ascott1's comments:
     * Why we (the public) care about regulations
     * How do they affect your lives?
 
-* What are the problems with online regulations?
+* A basic introduction to the rule-making process. 
 
-* How does the rule-making process work? (This will be important for diff view)
+* What are the problems with online regulations?
 
 * Path of a regulation through our system.
 
@@ -23,6 +25,12 @@ Here is an outline based on the abstract, and @ascott1's comments:
 
     * Displaying the regulation.
 
-* A little more detail about the rule-making process, 
+* A little more detail about the rule-making process, important to highlight the 
+parts for diff view. Also, set up for compiling regulations
 
-* Credits (eRegulations team, Tom Kearney)
+* Generating redline (diff) views of regulations
+
+* Compiling versions of regulations from descriptions of changes (FR notices):
+  how we turn lawyer written statements about changes in regulations into actual actions  (add, delete, move). 
+
+* Tie everything together, and end somehow. 
