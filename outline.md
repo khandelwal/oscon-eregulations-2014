@@ -18,8 +18,8 @@ Here is an outline based on the abstract, and @ascott1's comments:
 * Path of a regulation through our system.
 
     * Parsing, parsing and even more parsing: getting from regulation plaintext
-    * to hierarchical actionable data. List open source libraries used for
-    * parsing. 
+    to hierarchical actionable data. List open source libraries used for
+    parsing. 
 
     * Laying infromation on top: definitions, citations and interpretations. 
 
