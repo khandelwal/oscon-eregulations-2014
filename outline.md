@@ -1,8 +1,8 @@
 Here is an outline based on the abstract, and @ascott1's comments:
 
-* Brief introduction to talk, and who I am.
+* Introduction
 
-# Domain/Subject Matter: An introduction to regulations
+#### Domain/Subject Matter: An introduction to regulations
 
 * A very broad and high level view of the problem we tried to solve.
 
@@ -14,6 +14,8 @@ Here is an outline based on the abstract, and @ascott1's comments:
 * A basic introduction to the rule-making process. 
 
 * What are the problems with online regulations?
+
+#### Tool: Talk about eRegulations
 
 * Path of a regulation through our system.
 
