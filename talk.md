@@ -40,6 +40,35 @@ regulations cover, and the sorts of things they may pertain to.
 
 ## WHAT IS A REGULATION?
 
+Let's talk about what a regulation is really briefly. This is my simplistic
+developer view of this domain, and if you talked to a lawyer, you'd get a much
+more nuanced view. For our purposes here today, those nuances aren't relevant. 
+
+## CONGRESS ENACTS LAWS
+
+The United States Congress enacts laws. You've all heard of bills (they are
+talked about often in the news), and when those bills are approved they become
+laws also known as statutes. 
+
+## Statutes are implemented by regulations
+
+Congress in those statutes, provides the relevant federal agencies (like the
+EPA, and the FAA) to  actual implement the details of the law. So an example
+would perhaps be that Congress enacts a statute that specifies that factories
+must reduce carbon emissions by 80%. That statute would give the EPA the
+authority to figure out and implement the details of how to make that work. 
+
+## Regulations specify 
+
+(Just read this out)
+
+## 37,022
+
+That's how many changes to regulations were made in the past 10 years. That's a
+lot of changes, an average of 3700 a year, and having read a handful of those,
+they are long and complex. having read a very small fraction of  those
+
+
 
 
 ## 37,022
